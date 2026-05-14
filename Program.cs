@@ -27,7 +27,7 @@ namespace UserServiceAPI
 
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("AllowAngular",
+                options.AddPolicy("AllowFrontend",
                     policy =>
                     {
                         policy.WithOrigins("https://thankful-mud-017bfc70f.7.azurestaticapps.net")
@@ -83,7 +83,7 @@ namespace UserServiceAPI
                 app.UseSwaggerUI();
             }
 
-            app.UseCors("AllowAngular");
+            app.UseCors("AllowFrontend");
 
             app.UseAuthentication();
             app.UseAuthorization();
