@@ -3664,11 +3664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\Mini-III\\HealthcareManagementSystem\\UserServiceAPI\\UserServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sampu\\OneDrive\\Desktop\\UserServiceAPI\\UserServiceAPI.csproj",
       "projectName": "UserServiceAPI",
-      "projectPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\Mini-III\\HealthcareManagementSystem\\UserServiceAPI\\UserServiceAPI.csproj",
+      "projectPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\UserServiceAPI\\UserServiceAPI.csproj",
       "packagesPath": "C:\\Users\\sampu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\Mini-III\\HealthcareManagementSystem\\UserServiceAPI\\obj\\",
+      "outputPath": "C:\\Users\\sampu\\OneDrive\\Desktop\\UserServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

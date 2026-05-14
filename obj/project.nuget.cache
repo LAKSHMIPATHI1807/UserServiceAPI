@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XfhdzZnsS0Y=",
+  "dgSpecHash": "Ecrs//lL25I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sampu\\OneDrive\\Desktop\\.Net_training\\Mini-III\\HealthcareManagementSystem\\UserServiceAPI\\UserServiceAPI.csproj",
+  "projectFilePath": "C:\\Users\\sampu\\OneDrive\\Desktop\\UserServiceAPI\\UserServiceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sampu\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
     "C:\\Users\\sampu\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
